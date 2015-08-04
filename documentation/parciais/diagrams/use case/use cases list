@@ -1,0 +1,68 @@
+Administrador
+
+<<UC-01>> Cadastrar empresa
+
+<<UC-02>> Acessar sistema
+<<UC-02a>> Recuperar dados de acesso
+
+<<UC-03>> Manter passageiros
+<<UC-03a>> Inserir ponto de coleta
+
+<<UC-04>> - Manter destinos
+<<UC-04a>> Associar motorista
+<<UC-04b>> Associar passageiro
+<<UC-04c>> Definir endereços de destinos
+<<UC-04d>> Definir prioridade de destinos
+<<UC-04e>> Definir endereço de origem
+
+<<UC-05>> Manter empresa cliente.
+
+<<UC-06>> Localizar motorista.
+
+<<UC-07>> Visualizar estatísticas por destino
+
+<<UC-08>> Manter pagamentos de passageiros
+
+<<UC-09>> Manter valor por destino
+
+<<UC-10>> Manter custo
+
+<<UC-11>> Gerar estatistica custo x lucro
+
+<<UC-12>> Manter motoristas
+
+<<UC-13>> Configurações
+
+
+Motorista
+
+<<UC-01>> Acessar sistema
+<<UC-01a>> Recuperar dados de acesso
+
+<<UC-02>> Visualizar passageiros
+<<UC-03>> Confirmar presença
+
+<<UC-04>> Iniciar trajeto
+<<UC-04a>> Google Maps API
+
+<<UC-05>> Configurações de aplicativo
+
+<<UC-06>> Visualizar destinos
+
+Passageiro
+
+<<UC-01>> Acessar sistema
+<<UC-01a>> Recuperar dados de acesso
+
+<<UC-02>> Visualizar passageiros do destino
+
+<<UC-03>> Confirmar presença
+
+<<UC-04>> Visualizar informações do motorista
+
+<<UC-05>>  Acompanhar trajeto
+
+<<UC-06>> Alterar dados pessoais
+
+<<UC-07>> Visualizar destinos
+
