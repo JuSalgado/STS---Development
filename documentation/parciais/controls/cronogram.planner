@@ -21,51 +21,156 @@
   </calendars>
   <tasks>
     <task id="1" name="Concep&#xE7;&#xE3;o do cronograma" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="2" name=" Leiaute das telas, com o fluxo de navega&#xE7;&#xE3;o entre as telas do sistema Web" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="3" name=" Leiaute das telas, com o fluxo de navega&#xE7;&#xE3;o entre as telas do sistema Mobile" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="4" name="Descri&#xE7;&#xE3;o de todas as mensagens do sistema" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="5" name=" Procedimentos de back-up, seguran&#xE7;a e conting&#xEA;ncia (Descri&#xE7;&#xE3;o e Esquema Gr&#xE1;fico)" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="6" name="Web - &lt;&lt;UC-01&gt;&gt; Cadastrar empresa" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="7" name="Web - &lt;&lt;UC-02&gt;&gt; Acessar sistema" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="8" name="Web - &lt;&lt;UC-02a&gt;&gt; Recuperar dados de acesso" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="9" name="Web - &lt;&lt;UC-03&gt;&gt; Manter passageiros" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="10" name="Web - &lt;&lt;UC-03a&gt;&gt; Inserir ponto de coleta" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="11" name="Web - &lt;&lt;UC-04&gt;&gt; - Manter destinos" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="12" name="Web - &lt;&lt;UC-04a&gt;&gt; Associar motorista" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="13" name="Web - &lt;&lt;UC-04b&gt;&gt; Associar passageiro" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="14" name="Web - &lt;&lt;UC-04b&gt;&gt; Associar passageiro" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="15" name="Web - &lt;&lt;UC-04c&gt;&gt; Definir endere&#xE7;os de destinos" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="16" name="Web - &lt;&lt;UC-04d&gt;&gt; Definir prioridade de destinos" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="17" name="Web - &lt;&lt;UC-04e&gt;&gt; Definir endere&#xE7;o de origem" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="18" name="Web - &lt;&lt;UC-06&gt;&gt; Localizar motorista." note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="19" name="Web - &lt;&lt;UC-07&gt;&gt; Visualizar estat&#xED;sticas por destino" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="20" name="Web - &lt;&lt;UC-08&gt;&gt; Manter pagamentos de passageiros" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="21" name="Web - &lt;&lt;UC-09&gt;&gt; Manter valor por destino" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="22" name="Web - &lt;&lt;UC-10&gt;&gt; Manter custo" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="23" name="Leiaute e rela&#xE7;&#xE3;o dos relat&#xF3;rios do sistema" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="24" name="Web - &lt;&lt;UC-11&gt;&gt; Gerar estatistica custo x lucro" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="25" name="Web - &lt;&lt;UC-13&gt;&gt; Configura&#xE7;&#xF5;es" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="26" name="Registro de Log de transa&#xE7;&#xF5;es" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="27" name="Mobile - &lt;&lt;UC-01&gt;&gt; Acessar sistema" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="28" name="Mobile - &lt;&lt;UC-01a&gt;&gt; Recuperar dados de acesso" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="29" name="Mobile - Motorista - &lt;&lt;UC-02&gt;&gt; Visualizar passageiros" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="30" name="Mobile - Motorista - &lt;&lt;UC-03&gt;&gt; Confirmar presen&#xE7;a" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="31" name="Mobile - Motorista - &lt;&lt;UC-04&gt;&gt; Iniciar trajeto" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="32" name="Mobile - Motorista - &lt;&lt;UC-04a&gt;&gt; Google Maps API" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="33" name="Mobile - Motorista - &lt;&lt;UC-05&gt;&gt; Configura&#xE7;&#xF5;es de aplicativo" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="34" name="Mobile - Motorista - &lt;&lt;UC-06&gt;&gt; Visualizar destinos" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="35" name="Mobile - Passageiro - &lt;&lt;UC-02&gt;&gt; Visualizar passageiros do destino" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="36" name="Mobile - Passageiro - &lt;&lt;UC-03&gt;&gt; Confirmar presen&#xE7;a" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="37" name="Mobile - Passageiro - &lt;&lt;UC-04&gt;&gt; Visualizar informa&#xE7;&#xF5;es do motorista" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="38" name="Mobile - Passageiro - &lt;&lt;UC-05&gt;&gt;  Acompanhar trajeto" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="39" name="Mobile - Passageiro - &lt;&lt;UC-06&gt;&gt; Alterar dados pessoais" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="40" name="Mobile - Passageiro - &lt;&lt;UC-07&gt;&gt; Visualizar destinos" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="41" name=" Todos os programas fonte, em todas as tecnologias usadas (linguagens de programa&#xE7;&#xE3;o, scripts, etc..)" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="42" name=" Programas fonte e execut&#xE1;veis" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="43" name="Parametriza&#xE7;&#xF5;es" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="44" name="Configura&#xE7;&#xF5;es" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="45" name="Prepara&#xE7;&#xE3;o da apresenta&#xE7;&#xE3;o" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
-    <task id="46" name="Apresenta&#xE7;&#xE3;o" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="2" name="Design de sistema" note="" work="316800" start="20150804T000000Z" end="20150818T170000Z" work-start="20150804T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150804T000000Z"/>
+    </task>
+    <task id="3" name=" Leiaute das telas, com o fluxo de navega&#xE7;&#xE3;o entre as telas do sistema Mobile" note="" work="633600" start="20150810T000000Z" end="20150908T170000Z" work-start="20150810T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150810T000000Z"/>
+    </task>
+    <task id="4" name="Descri&#xE7;&#xE3;o de todas as mensagens do sistema" note="" work="288000" start="20150817T000000Z" end="20150828T170000Z" work-start="20150817T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150817T000000Z"/>
+    </task>
+    <task id="5" name=" Procedimentos de back-up, seguran&#xE7;a e conting&#xEA;ncia (Descri&#xE7;&#xE3;o e Esquema Gr&#xE1;fico)" note="" work="432000" start="20150831T000000Z" end="20150918T170000Z" work-start="20150831T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150831T000000Z"/>
+    </task>
+    <task id="6" name="Estrutura&#xE7;&#xE3;o do servidor e defini&#xE7;&#xE3;o de servi&#xE7;os mobile" note="" work="288000" start="20150817T000000Z" end="20150828T170000Z" work-start="20150817T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150817T000000Z"/>
+    </task>
+    <task id="7" name="Registro de Log de transa&#xE7;&#xF5;es" note="" work="86400" start="20150817T000000Z" end="20150819T170000Z" work-start="20150817T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150817T000000Z"/>
+    </task>
+    <task id="8" name="Cria&#xE7;&#xE3;o do banco de dados e entidades" note="" work="288000" start="20150811T000000Z" end="20150824T170000Z" work-start="20150811T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150811T000000Z"/>
+    </task>
+    <task id="9" name="Web - &lt;&lt;UC-01&gt;&gt; Cadastrar empresa" note="" work="172800" start="20150824T000000Z" end="20150831T170000Z" work-start="20150824T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150824T000000Z"/>
+    </task>
+    <task id="10" name="Web - &lt;&lt;UC-02&gt;&gt; Acessar sistema" note="" work="86400" start="20150901T000000Z" end="20150903T170000Z" work-start="20150901T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150901T000000Z"/>
+    </task>
+    <task id="11" name="Web - &lt;&lt;UC-02a&gt;&gt; Recuperar dados de acesso" note="" work="115200" start="20150904T000000Z" end="20150909T170000Z" work-start="20150904T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150904T000000Z"/>
+    </task>
+    <task id="12" name="Web - &lt;&lt;UC-03a&gt;&gt; Inserir ponto de coleta" note="" work="115200" start="20150909T000000Z" end="20150914T170000Z" work-start="20150909T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150909T000000Z"/>
+    </task>
+    <task id="13" name="Web - &lt;&lt;UC-03&gt;&gt; Manter passageiros" note="" work="115200" start="20150914T000000Z" end="20150917T170000Z" work-start="20150914T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150914T000000Z"/>
+    </task>
+    <task id="14" name="Web - Visualizar presen&#xE7;a de passageiros" note="" work="115200" start="20150914T000000Z" end="20150917T170000Z" work-start="20150914T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150914T000000Z"/>
+    </task>
+    <task id="15" name="Web - &lt;&lt;UC-12&gt;&gt; Manter motoristas" note="" work="57600" start="20150917T000000Z" end="20150918T170000Z" work-start="20150917T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150917T000000Z"/>
+    </task>
+    <task id="16" name="Web - &lt;&lt;UC-04&gt;&gt; - Manter destinos" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="17" name="Web - &lt;&lt;UC-04a&gt;&gt; Associar motorista" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="18" name="Web - &lt;&lt;UC-04b&gt;&gt; Associar passageiro" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="19" name="Web - &lt;&lt;UC-04c&gt;&gt; Definir endere&#xE7;os de destinos" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="20" name="Web - &lt;&lt;UC-04d&gt;&gt; Definir prioridade de destinos" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="21" name="Web - &lt;&lt;UC-04e&gt;&gt; Definir endere&#xE7;o de origem" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="22" name="Web - &lt;&lt;UC-09&gt;&gt; Manter valor por destino" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="23" name="Web - Criar rota de destinos" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="24" name="Web - &lt;&lt;UC-06&gt;&gt; Localizar motorista." note="" work="288000" start="20150925T000000Z" end="20151008T170000Z" work-start="20150925T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150925T000000Z"/>
+    </task>
+    <task id="25" name="Leiaute e rela&#xE7;&#xE3;o dos relat&#xF3;rios do sistema" note="" work="28800" start="20151008T000000Z" end="20151008T170000Z" work-start="20151008T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151008T000000Z"/>
+    </task>
+    <task id="26" name="Web - &lt;&lt;UC-11&gt;&gt; Gerar estatistica custo x lucro" note="" work="288000" start="20151009T000000Z" end="20151022T170000Z" work-start="20151009T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151009T000000Z"/>
+    </task>
+    <task id="27" name="Web - &lt;&lt;UC-07&gt;&gt; Visualizar estat&#xED;sticas por destino" note="" work="288000" start="20151009T000000Z" end="20151022T170000Z" work-start="20151009T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151009T000000Z"/>
+    </task>
+    <task id="28" name="Web - &lt;&lt;UC-08&gt;&gt; Manter pagamentos de passageiros" note="" work="86400" start="20151021T000000Z" end="20151023T170000Z" work-start="20151021T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151021T000000Z"/>
+    </task>
+    <task id="29" name="Web - &lt;&lt;UC-10&gt;&gt; Manter custo" note="" work="86400" start="20151021T000000Z" end="20151023T170000Z" work-start="20151021T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151021T000000Z"/>
+    </task>
+    <task id="30" name="Web - &lt;&lt;UC-13&gt;&gt; Configura&#xE7;&#xF5;es" note="" work="144000" start="20151023T000000Z" end="20151029T170000Z" work-start="20151023T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151023T000000Z"/>
+    </task>
+    <task id="31" name=" Leiaute das telas, com o fluxo de navega&#xE7;&#xE3;o entre as telas do sistema Web" note="" work="172800" start="20151029T000000Z" end="20151105T170000Z" work-start="20151029T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151029T000000Z"/>
+    </task>
+    <task id="32" name="Mobile - &lt;&lt;UC-01&gt;&gt; Acessar sistema" note="" work="86400" start="20150904T000000Z" end="20150908T170000Z" work-start="20150904T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150904T000000Z"/>
+    </task>
+    <task id="33" name="Mobile - &lt;&lt;UC-01a&gt;&gt; Recuperar dados de acesso" note="" work="86400" start="20150810T000000Z" end="20150812T170000Z" work-start="20150810T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150810T000000Z"/>
+    </task>
+    <task id="34" name="Mobile - Motorista - &lt;&lt;UC-02&gt;&gt; Visualizar passageiros" note="" work="86400" start="20150818T000000Z" end="20150820T170000Z" work-start="20150818T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150818T000000Z"/>
+    </task>
+    <task id="35" name="Mobile - Motorista - &lt;&lt;UC-03&gt;&gt; Confirmar presen&#xE7;a" note="" work="86400" start="20150918T000000Z" end="20150922T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="36" name="Mobile - Motorista - &lt;&lt;UC-04&gt;&gt; Iniciar trajeto" note="" work="86400" start="20150928T000000Z" end="20150930T170000Z" work-start="20150928T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150928T000000Z"/>
+    </task>
+    <task id="37" name="Mobile - Motorista - &lt;&lt;UC-04a&gt;&gt; Google Maps API" note="" work="86400" start="20150817T000000Z" end="20150819T170000Z" work-start="20150817T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150817T000000Z"/>
+    </task>
+    <task id="38" name="Mobile - Motorista - &lt;&lt;UC-05&gt;&gt; Configura&#xE7;&#xF5;es de aplicativo" note="" work="86400" start="20150819T000000Z" end="20150821T170000Z" work-start="20150819T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150819T000000Z"/>
+    </task>
+    <task id="39" name="Mobile - Motorista - &lt;&lt;UC-06&gt;&gt; Visualizar destinos" note="" work="86400" start="20150925T000000Z" end="20150929T170000Z" work-start="20150925T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150925T000000Z"/>
+    </task>
+    <task id="40" name="Mobile - Passageiro - &lt;&lt;UC-02&gt;&gt; Visualizar passageiros do destino" note="" work="86400" start="20150930T000000Z" end="20151002T170000Z" work-start="20150930T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150930T000000Z"/>
+    </task>
+    <task id="41" name="Mobile - Passageiro - &lt;&lt;UC-03&gt;&gt; Confirmar presen&#xE7;a" note="" work="86400" start="20151002T000000Z" end="20151006T170000Z" work-start="20151002T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151002T000000Z"/>
+    </task>
+    <task id="42" name="Mobile - Passageiro - &lt;&lt;UC-04&gt;&gt; Visualizar informa&#xE7;&#xF5;es do motorista" note="" work="86400" start="20151007T000000Z" end="20151009T170000Z" work-start="20151007T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151007T000000Z"/>
+    </task>
+    <task id="43" name="Mobile - Passageiro - &lt;&lt;UC-06&gt;&gt; Alterar dados pessoais" note="" work="86400" start="20151010T000000Z" end="20151014T170000Z" work-start="20151012T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151010T000000Z"/>
+    </task>
+    <task id="44" name="Mobile - Passageiro - &lt;&lt;UC-07&gt;&gt; Visualizar destinos" note="" work="86400" start="20151015T000000Z" end="20151019T170000Z" work-start="20151015T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151015T000000Z"/>
+    </task>
+    <task id="45" name="Mobile - Passageiro - &lt;&lt;UC-05&gt;&gt;  Acompanhar trajeto" note="" work="86400" start="20151020T000000Z" end="20151022T170000Z" work-start="20151020T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151020T000000Z"/>
+    </task>
+    <task id="46" name=" Todos os programas fonte, em todas as tecnologias usadas (linguagens de programa&#xE7;&#xE3;o, scripts, etc..)" note="" work="28800" start="20151105T000000Z" end="20151105T170000Z" work-start="20151105T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151105T000000Z"/>
+    </task>
+    <task id="47" name=" Programas fonte e execut&#xE1;veis" note="" work="28800" start="20151105T000000Z" end="20151105T170000Z" work-start="20151105T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151105T000000Z"/>
+    </task>
+    <task id="48" name="Parametriza&#xE7;&#xF5;es" note="" work="432000" start="20150918T000000Z" end="20151008T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="49" name="Configura&#xE7;&#xF5;es" note="" work="432000" start="20150918T000000Z" end="20151008T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150918T000000Z"/>
+    </task>
+    <task id="50" name="Prepara&#xE7;&#xE3;o da apresenta&#xE7;&#xE3;o" note="" work="115200" start="20151105T000000Z" end="20151110T170000Z" work-start="20151105T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151105T000000Z"/>
+    </task>
+    <task id="51" name="Apresenta&#xE7;&#xE3;o" note="" work="28800" start="20151125T000000Z" end="20151125T170000Z" work-start="20151125T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151125T000000Z"/>
+    </task>
   </tasks>
   <resource-groups/>
   <resources/>
