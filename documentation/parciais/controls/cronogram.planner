@@ -59,7 +59,9 @@
     <task id="13" name="Web - &lt;&lt;UC-03&gt;&gt; Manter passageiros" note="" work="115200" start="20150914T000000Z" end="20150917T170000Z" work-start="20150914T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20150914T000000Z"/>
     </task>
-    <task id="14" name="Web - Testes" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="14" name="Web - Testes" note="" work="57600" start="20200917T000000Z" end="20200918T170000Z" work-start="20200917T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20200917T000000Z"/>
+    </task>
     <task id="15" name="Web - Visualizar presen&#xE7;a de passageiros" note="" work="115200" start="20150914T000000Z" end="20150917T170000Z" work-start="20150914T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20150914T000000Z"/>
     </task>
@@ -84,7 +86,9 @@
     <task id="22" name="Web - &lt;&lt;UC-04e&gt;&gt; Definir endere&#xE7;o de origem" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20150918T000000Z"/>
     </task>
-    <task id="23" name="Web - Testes" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="23" name="Web - Testes" note="" work="57600" start="20170925T000000Z" end="20170926T170000Z" work-start="20170925T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20170925T000000Z"/>
+    </task>
     <task id="24" name="Web - &lt;&lt;UC-09&gt;&gt; Manter valor por destino" note="" work="172800" start="20150918T000000Z" end="20150925T170000Z" work-start="20150918T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20150918T000000Z"/>
     </task>
@@ -94,7 +98,9 @@
     <task id="26" name="Web - &lt;&lt;UC-06&gt;&gt; Localizar motorista." note="" work="288000" start="20150925T000000Z" end="20151008T170000Z" work-start="20150925T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20150925T000000Z"/>
     </task>
-    <task id="27" name="Web - Testes" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="27" name="Web - Testes" note="" work="57600" start="20151008T000000Z" end="20151009T170000Z" work-start="20151008T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151008T000000Z"/>
+    </task>
     <task id="28" name="Leiaute e rela&#xE7;&#xE3;o dos relat&#xF3;rios do sistema" note="" work="28800" start="20151008T000000Z" end="20151008T170000Z" work-start="20151008T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20151008T000000Z"/>
     </task>
@@ -104,7 +110,9 @@
     <task id="30" name="Web - &lt;&lt;UC-07&gt;&gt; Visualizar estat&#xED;sticas por destino" note="" work="288000" start="20151009T000000Z" end="20151022T170000Z" work-start="20151009T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20151009T000000Z"/>
     </task>
-    <task id="31" name="Web - Testes" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="31" name="Web - Testes" note="" work="57600" start="20151022T000000Z" end="20151023T170000Z" work-start="20151022T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151022T000000Z"/>
+    </task>
     <task id="32" name="Web - &lt;&lt;UC-08&gt;&gt; Manter pagamentos de passageiros" note="" work="86400" start="20151021T000000Z" end="20151023T170000Z" work-start="20151021T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20151021T000000Z"/>
     </task>
@@ -114,11 +122,15 @@
     <task id="34" name="Web - &lt;&lt;UC-13&gt;&gt; Configura&#xE7;&#xF5;es" note="" work="144000" start="20151023T000000Z" end="20151029T170000Z" work-start="20151023T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20151023T000000Z"/>
     </task>
-    <task id="35" name="Web - Testes" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="35" name="Web - Testes" note="" work="57600" start="20150929T000000Z" end="20150930T170000Z" work-start="20150929T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20150929T000000Z"/>
+    </task>
     <task id="36" name=" Leiaute das telas, com o fluxo de navega&#xE7;&#xE3;o entre as telas do sistema Web" note="" work="172800" start="20151029T000000Z" end="20151105T170000Z" work-start="20151029T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20151029T000000Z"/>
     </task>
-    <task id="37" name="Web - Testes finais" note="" work="28800" start="20150803T000000Z" end="20150803T170000Z" work-start="20150803T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+    <task id="37" name="Web - Testes finais" note="" work="144000" start="20151105T000000Z" end="20151111T170000Z" work-start="20151105T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <constraint type="must-start-on" time="20151105T000000Z"/>
+    </task>
     <task id="38" name="Mobile - &lt;&lt;UC-01&gt;&gt; Acessar sistema" note="" work="86400" start="20150904T000000Z" end="20150908T170000Z" work-start="20150904T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
       <constraint type="must-start-on" time="20150904T000000Z"/>
     </task>
